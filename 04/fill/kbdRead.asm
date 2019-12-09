@@ -1,0 +1,5 @@
+(BEGIN)
+	@KBD
+	D=M
+	@BEGIN
+	0; JMP
